@@ -1,0 +1,2 @@
+# frontitech.xyz
+Default page.
